@@ -1,0 +1,9 @@
+{
+  "name": "Nexus CRM AI",
+  "description": "An intelligent, AI-powered CRM designed for seamless website integration. Manage leads, analyze sentiment, and automate follow-ups using Gemini-3-Pro.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
